@@ -1,0 +1,404 @@
+{
+    "title": {
+        "text": {"headline": "机动战士高达SEED DESTINY TIMELINE", "text": "MOBILE SUIT GUNDAM SEED DESTINY TIMELINE"},
+        "media": {"url": "./assets/images/icon/logo_destiny.png", "caption": "机动战士高达SEED DESTINY"}
+    },
+    "events": [
+    {
+    "start_date": {"year": 2004, "month": 10, "day": 9},
+    "text": {"headline": "被触怒的眼神", "text": "第1集"},
+    "media": {"url": "./assets/images/episodes/destiny_story1.jpg", "caption": "第1集"}
+    },
+    {
+    "start_date": {"year": 2004, "month": 10, "day": 16},
+    "text": {"headline": "招来战争之物", "text": "第2集"},
+    "media": {"url": "./assets/images/episodes/destiny_story2.jpg", "caption": "第2集"}
+    },
+    {
+    "start_date": {"year": 2004, "month": 10, "day": 30},
+    "text": {"headline": "预兆的炮火", "text": "第3集"},
+    "media": {"url": "./assets/images/episodes/destiny_story3.jpg", "caption": "第3集"}
+    },
+    {
+    "start_date": {"year": 2004, "month": 11, "day": 6},
+    "text": {"headline": "群星的战场", "text": "第4集"},
+    "media": {"url": "./assets/images/episodes/destiny_story4.jpg", "caption": "第4集"}
+    },
+    {
+    "start_date": {"year": 2004, "month": 11, "day": 13},
+    "text": {"headline": "无法愈合的伤痕", "text": "第5集"},
+    "media": {"url": "./assets/images/episodes/destiny_story5.jpg", "caption": "第5集"}
+    },
+    {
+    "start_date": {"year": 2004, "month": 11, "day": 20},
+    "text": {"headline": "世界终结之时", "text": "第6集"},
+    "media": {"url": "./assets/images/episodes/destiny_story6.jpg", "caption": "第6集"}
+    },
+    {
+    "start_date": {"year": 2004, "month": 11, "day": 27},
+    "text": {"headline": "混乱的大地", "text": "第7集"},
+    "media": {"url": "./assets/images/episodes/destiny_story7.jpg", "caption": "第7集"}
+    },
+    {
+    "start_date": {"year": 2004, "month": 12, "day": 4},
+    "text": {"headline": "汇合", "text": "第8集"},
+    "media": {"url": "./assets/images/episodes/destiny_story8.jpg", "caption": "第8集"}
+    },
+    {
+    "start_date": {"year": 2004, "month": 12, "day": 11},
+    "text": {"headline": "骄傲之牙", "text": "第9集"},
+    "media": {"url": "./assets/images/episodes/destiny_story9.jpg", "caption": "第9集"}
+    },
+    {
+    "start_date": {"year": 2004, "month": 12, "day": 18},
+    "text": {"headline": "父亲的诅咒", "text": "第10集"},
+    "media": {"url": "./assets/images/episodes/destiny_story10.jpg", "caption": "第10集"}
+    },
+    {
+    "start_date": {"year": 2004, "month": 12, "day": 25},
+    "text": {"headline": "选择的道路", "text": "第11集"},
+    "media": {"url": "./assets/images/episodes/destiny_story11.jpg", "caption": "第11集"}
+    },
+    {
+    "start_date": {"year": 2004, "month": 12, "day": 25},
+    "text": {"headline": "血染大海", "text": "第12集"},
+    "media": {"url": "./assets/images/episodes/destiny_story12.jpg", "caption": "第12集"}
+    },
+           
+    {
+    "start_date": {"year": 2005, "month": 1, "day": 8},
+    "text": {"headline": "苏醒之翼", "text": "第13集"},
+    "media": {"url": "./assets/images/episodes/destiny_story13.jpg", "caption": "第13集"}
+    },
+    {
+    "start_date": {"year": 2005, "month": 1, "day": 15},
+    "text": {"headline": "向明日出航", "text": "第14集"},
+    "media": {"url": "./assets/images/episodes/destiny_story14.jpg", "caption": "第14集"}
+    },
+    {
+    "start_date": {"year": 2005, "month": 1, "day": 22},
+    "text": {"headline": "重返战场", "text": "第15集"},
+    "media": {"url": "./assets/images/episodes/destiny_story15.jpg", "caption": "第15集"}
+    },
+    {
+    "start_date": {"year": 2005, "month": 2, "day": 5},
+    "text": {"headline": "印度洋的死斗", "text": "第16集"},
+    "media": {"url": "./assets/images/episodes/destiny_story16.jpg", "caption": "第16集"}
+    },
+    {
+    "start_date": {"year": 2005, "month": 2, "day": 12},
+    "text": {"headline": "战士的条件", "text": "第17集"},
+    "media": {"url": "./assets/images/episodes/destiny_story17.jpg", "caption": "第17集"}
+    },
+    {
+    "start_date": {"year": 2005, "month": 2, "day": 19},
+    "text": {"headline": "讨伐罗安格林炮台", "text": "第18集"},
+    "media": {"url": "./assets/images/episodes/destiny_story18.jpg", "caption": "第18集"}
+    },
+    {
+    "start_date": {"year": 2005, "month": 2, "day": 26},
+    "text": {"headline": "看不见的真实", "text": "第19集"},
+    "media": {"url": "./assets/images/episodes/destiny_story19.jpg", "caption": "第19集"}
+    },
+    {
+    "start_date": {"year": 2005, "month": 3, "day": 5},
+    "text": {"headline": "过去", "text": "第20集"},
+    "media": {"url": "./assets/images/episodes/destiny_story20.jpg", "caption": "第20集"}
+    },
+    {
+    "start_date": {"year": 2005, "month": 3, "day": 12},
+    "text": {"headline": "迷茫的眼神", "text": "第21集"},
+    "media": {"url": "./assets/images/episodes/destiny_story21.jpg", "caption": "第21集"}
+    },
+    {
+    "start_date": {"year": 2005, "month": 3, "day": 19},
+    "text": {"headline": "苍天之剑", "text": "第22集"},
+    "media": {"url": "./assets/images/episodes/destiny_story22.jpg", "caption": "第22集"}
+    },
+    {
+    "start_date": {"year": 2005, "month": 3, "day": 26},
+    "text": {"headline": "战火的背后", "text": "第23集"},
+    "media": {"url": "./assets/images/episodes/destiny_story23.jpg", "caption": "第23集"}
+    },
+    {
+    "start_date": {"year": 2005, "month": 4, "day": 2},
+    "text": {"headline": "错过的视线", "text": "第24集"},
+    "media": {"url": "./assets/images/episodes/destiny_story24.jpg", "caption": "第24集"}
+    },
+    {
+    "start_date": {"year": 2005, "month": 4, "day": 9},
+    "text": {"headline": "罪恶的所在", "text": "第25集"},
+    "media": {"url": "./assets/images/episodes/destiny_story25.jpg", "caption": "第25集"}
+    },
+    {
+    "start_date": {"year": 2005, "month": 4, "day": 16},
+    "text": {"headline": "约定", "text": "第26集"},
+    "media": {"url": "./assets/images/episodes/destiny_story26.jpg", "caption": "第26集"}
+    },
+    {
+    "start_date": {"year": 2005, "month": 4, "day": 23},
+    "text": {"headline": "无法传递的思念", "text": "第27集"},
+    "media": {"url": "./assets/images/episodes/destiny_story27.jpg", "caption": "第27集"}
+    },
+    {
+    "start_date": {"year": 2005, "month": 4, "day": 30},
+    "text": {"headline": "残存与消逝的生命", "text": "第28集"},
+    "media": {"url": "./assets/images/episodes/destiny_story28.jpg", "caption": "第28集"}
+    },
+    {
+    "start_date": {"year": 2005, "month": 5, "day": 7},
+    "text": {"headline": "宿命", "text": "第29集"},
+    "media": {"url": "./assets/images/episodes/destiny_story29.jpg", "caption": "第29集"}
+    },
+    {
+    "start_date": {"year": 2005, "month": 5, "day": 14},
+    "text": {"headline": "刹那之梦", "text": "第30集"},
+    "media": {"url": "./assets/images/episodes/destiny_story30.jpg", "caption": "第30集"}
+    },
+    {
+    "start_date": {"year": 2005, "month": 5, "day": 21},
+    "text": {"headline": "未明之夜", "text": "第31集"},
+    "media": {"url": "./assets/images/episodes/destiny_story31.jpg", "caption": "第31集"}
+    },
+    {
+    "start_date": {"year": 2005, "month": 5, "day": 28},
+    "text": {"headline": "史黛拉", "text": "第32集"},
+    "media": {"url": "./assets/images/episodes/destiny_story32.jpg", "caption": "第32集"}
+    },
+    {
+    "start_date": {"year": 2005, "month": 6, "day": 4},
+    "text": {"headline": "被展示的世界", "text": "第33集"},
+    "media": {"url": "./assets/images/episodes/destiny_story33.jpg", "caption": "第33集"}
+    },
+    {
+    "start_date": {"year": 2005, "month": 6, "day": 11},
+    "text": {"headline": "噩梦", "text": "第34集"},
+    "media": {"url": "./assets/images/episodes/destiny_story34.jpg", "caption": "第34集"}
+    },
+    {
+    "start_date": {"year": 2005, "month": 6, "day": 18},
+    "text": {"headline": "混沌之初", "text": "第35集"},
+    "media": {"url": "./assets/images/episodes/destiny_story35.jpg", "caption": "第35集"}
+    },
+    {
+    "start_date": {"year": 2005, "month": 6, "day": 25},
+    "text": {"headline": "阿斯兰逃亡", "text": "第36集"},
+    "media": {"url": "./assets/images/episodes/destiny_story36.jpg", "caption": "第36集"}
+    },
+    {
+    "start_date": {"year": 2005, "month": 7, "day": 2},
+    "text": {"headline": "雷鸣的黑夜", "text": "第37集"},
+    "media": {"url": "./assets/images/episodes/destiny_story37.jpg", "caption": "第37集"}
+    },
+    {
+    "start_date": {"year": 2005, "month": 7, "day": 9},
+    "text": {"headline": "新的旗号", "text": "第38集"},
+    "media": {"url": "./assets/images/episodes/destiny_story38.jpg", "caption": "第38集"}
+    },
+    {
+    "start_date": {"year": 2005, "month": 7, "day": 16},
+    "text": {"headline": "天空中的基拉", "text": "第39集"},
+    "media": {"url": "./assets/images/episodes/destiny_story39.jpg", "caption": "第39集"}
+    },
+    {
+    "start_date": {"year": 2005, "month": 7, "day": 23},
+    "text": {"headline": "黄金的意志","text": "第40集"},
+    "media": {"url": "./assets/images/episodes/destiny_story40.jpg","caption": "第40集"}
+    },
+    {
+        "start_date": {"year": 2005, "month": 8, "day": 6},
+        "text": {"headline": "自由与正义", "text": "第42集"},
+        "media": {"url": "./assets/images/episodes/destiny_story41.jpg", "caption": "第42集"}
+    },
+    {
+        "start_date": {"year": 2005, "month": 8, "day": 13},
+        "text": {"headline": "反击之声", "text": "第43集"},
+        "media": {"url": "./assets/images/episodes/destiny_story42.jpg", "caption": "第43集"}
+    },
+    {
+        "start_date": {"year": 2005, "month": 8, "day": 20},
+        "text": {"headline": "两个拉克丝", "text": "第44集"},
+        "media": {"url": "./assets/images/episodes/destiny_story43.jpg", "caption": "第44集"}
+    },
+    {
+        "start_date": {"year": 2005, "month": 8, "day": 27},
+        "text": {"headline": "变革的序曲", "text": "第45集"},
+        "media": {"url": "./assets/images/episodes/destiny_story44.jpg", "caption": "第45集"}
+    },
+    {
+        "start_date": {"year": 2005, "month": 9, "day": 3},
+        "text": {"headline": "真实之歌", "text": "第46集"},
+        "media": {"url": "./assets/images/episodes/destiny_story45.jpg", "caption": "第46集"}
+    },
+    {
+        "start_date": {"year": 2005, "month": 9, "day": 10},
+        "text": {"headline": "米娅", "text": "第47集"},
+        "media": {"url": "./assets/images/episodes/destiny_story46.jpg", "caption": "第47集"}
+    },
+    {
+        "start_date": {"year": 2005, "month": 9, "day": 17},
+        "text": {"headline": "新的世界", "text": "第48集"},
+        "media": {"url": "./assets/images/episodes/destiny_story47.jpg", "caption": "第48集"}
+    },
+    {
+        "start_date": {"year": 2005, "month": 9, "day": 24},
+        "text": {"headline": "雷", "text": "第49集"},
+        "media": {"url": "./assets/images/episodes/destiny_story48.jpg", "caption": "第49集"}
+    },
+    {
+        "start_date": {"year": 2005, "month": 10, "day": 1},
+        "text": {"headline": "最后的力量", "text": "FINAL PHASE"},
+        "media": {"url": "./assets/images/episodes/destiny_story49.jpg", "caption": "FINAL PHASE"}
+    },
+    {
+        "start_date": {"year": 2005, "month": 12, "day": 25},
+        "text": {"headline": "被选择的未来", "text": "FINAL PLUS"},
+        "media": {"url": "./assets/images/episodes/destiny_story50.jpg", "caption": "FINAL PLUS"}
+    },
+    {
+        "start_date": {"year": 2005, "month": 8, "day": 21},
+        "text": {
+            "headline": "HG 1/144 无限正义",
+            "text": "2005年08月21日发售<br>1,760円（税入）"
+        },
+        "media": {
+            "url": "./assets/images/gunpla/HG-infinity_justice.jpg",
+            "caption": "HG 1/144 无限正义"
+            }
+    },
+    {
+        "start_date": {"year": 2005, "month": 9, "day": 30},
+        "text": {
+            "headline": "HG 1/144 强袭自由",
+            "text": "2005年09月30日发售<br>1,760円（税入）"
+        },
+        "media": {
+            "url": "./assets/images/gunpla/HG-strike_freedom.jpg",
+            "caption": "HG 1/144 强袭自由"
+        }
+    },
+    {
+    "start_date": {"year": 2005, "month": 8, "day": 12},
+    "text": {
+        "headline": "HG 老虎烈焰（量产机）",
+        "text": "2005年08月12日发售<br>1,650円（税入）"
+    },
+    "media": {
+        "url": "./assets/images/gunpla/HG-gouf_ignited.jpg",
+        "caption": "HG 老虎烈焰（量产机）"
+    }
+    },
+    {
+    "start_date": {"year": 2005, "month": 8, "day": 6},
+    "text": {
+        "headline": "1/100 强袭自由",
+        "text": "2005年08月06日发售<br>2,860円（税入）"
+    },
+    "media": {
+        "url": "./assets/images/gunpla/1-100-strike_freedom.jpg",
+        "caption": "1/100 强袭自由"
+    }
+    },
+    {
+    "start_date": {"year": 2005, "month": 8, "day": 27},
+    "text": {
+        "headline": "PG 1/60 嫣红强袭+攻击者背包",
+        "text": "2005年08月27日发售<br>20,900円（税入）"
+    },
+    "media": {
+        "url": "./assets/images/gunpla/PG-1-60-strike_rouge+pack.jpg",
+        "caption": "PG 1/60 嫣红强袭+攻击者背包"
+    }
+    },
+    {
+    "start_date": {"year": 2005, "month": 9},
+    "text": {
+        "headline": "MG 1/100 自由 Extra Finish",
+        "text": "2005年09月发售<br>8,800円（税入）"
+    },
+    "media": {
+        "url": "./assets/images/gunpla/MG-1-100_freedom_extra_finish.jpg",
+        "caption": "MG 1/100 自由 Extra Finish"
+    }
+    },
+    {
+    "start_date": {"year": 2005, "month": 11, "day": 23},
+    "text": {
+        "headline": "HG 1/144 命运",
+        "text": "2005年11月23日发售<br>1,760円（税入）"
+    },
+    "media": {
+        "url": "./assets/images/gunpla/HG-1-144_destiny.jpg",
+        "caption": "HG 1/144 命运"
+    }
+
+    },
+
+    {
+        "start_date": {"year": 2004, "month": 8, "day": 1},
+        "text": {"headline": "Newtype 8月号", "text": "Newtype 2004年8月号"},
+        "media": {"url": "./assets/images/newtype/200408.jpg", "caption": "Newtype 2004年8月号"}
+    },
+    {
+        "start_date": {"year": 2004, "month": 9, "day": 1},
+        "text": {"headline": "Newtype 9月号", "text": "Newtype 2004年9月号"},
+        "media": {"url": "./assets/images/newtype/200409.jpg", "caption": "Newtype 2004年9月号"}
+    },
+    {
+        "start_date": {"year": 2004, "month": 10, "day": 1},
+        "text": {"headline": "Newtype 10月号", "text": "Newtype 2004年10月号"},
+        "media": {"url": "./assets/images/newtype/200410.jpg", "caption": "Newtype 2004年10月号"}
+    },
+    {
+        "start_date": {"year": 2004, "month": 11, "day": 1},
+        "text": {"headline": "Newtype 11月号", "text": "Newtype 2004年11月号"},
+        "media": {"url": "./assets/images/newtype/200411.jpg", "caption": "Newtype 2004年11月号"}
+    },
+    {
+        "start_date": {"year": 2004, "month": 12, "day": 1},
+        "text": {"headline": "Newtype 12月号", "text": "Newtype 2004年12月号"},
+        "media": {"url": "./assets/images/newtype/200412.jpg", "caption": "Newtype 2004年12月号"}
+    },
+    {
+        "start_date": {"year": 2005, "month": 1, "day": 1},
+        "text": {"headline": "Newtype 1月号", "text": "Newtype 2005年1月号"},
+        "media": {"url": "./assets/images/newtype/200501.jpg", "caption": "Newtype 2005年1月号"}
+    },
+    {
+        "start_date": {"year": 2005, "month": 2, "day": 1},
+        "text": {"headline": "Newtype 2月号", "text": "Newtype 2005年2月号"},
+        "media": {"url": "./assets/images/newtype/200502.jpg", "caption": "Newtype 2005年2月号"}
+    },
+    {
+        "start_date": {"year": 2005, "month": 3, "day": 1},
+        "text": {"headline": "Newtype 3月号", "text": "Newtype 2005年3月号"},
+        "media": {"url": "./assets/images/newtype/200503.jpg", "caption": "Newtype 2005年3月号"}
+    },
+    {
+        "start_date": {"year": 2005, "month": 1, "day": 1},
+        "text": {"headline": "Newtype 1月号", "text": "Newtype 2005年1月号"},
+        "media": {"url": "./assets/images/newtype/200501.jpg", "caption": "Newtype 2005年1月号"}
+    },
+    {
+        "start_date": {"year": 2005, "month": 4, "day": 1},
+        "text": {"headline": "Newtype 4月号", "text": "Newtype 2005年4月号"},
+        "media": {"url": "./assets/images/newtype/200504.jpg", "caption": "Newtype 2005年4月号"}
+    },
+    {
+        "start_date": {"year": 2005, "month": 8, "day": 1},
+        "text": {"headline": "Newtype 8月号", "text": "Newtype 2005年8月号"},
+        "media": {"url": "./assets/images/newtype/200508.jpg", "caption": "Newtype 2005年8月号"}
+    },
+    {
+        "start_date": {"year": 2005, "month": 10, "day": 1},
+        "text": {"headline": "Newtype 10月号", "text": "Newtype 2005年10月号"},
+        "media": {"url": "./assets/images/newtype/200510.jpg", "caption": "Newtype 2005年10月号"}
+    },
+    {
+        "start_date": {"year": 2005, "month": 11, "day": 1},
+        "text": {"headline": "Newtype 11月号", "text": "Newtype 2005年11月号"},
+        "media": {"url": "./assets/images/newtype/200511.jpg", "caption": "Newtype 2005年11月号"}
+    }
+
+    ]
+}
