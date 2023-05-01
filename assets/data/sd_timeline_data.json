@@ -375,11 +375,6 @@
         "media": {"url": "./assets/images/newtype/200503.jpg", "caption": "Newtype 2005年3月号"}
     },
     {
-        "start_date": {"year": 2005, "month": 1, "day": 1},
-        "text": {"headline": "Newtype 1月号", "text": "Newtype 2005年1月号"},
-        "media": {"url": "./assets/images/newtype/200501.jpg", "caption": "Newtype 2005年1月号"}
-    },
-    {
         "start_date": {"year": 2005, "month": 4, "day": 1},
         "text": {"headline": "Newtype 4月号", "text": "Newtype 2005年4月号"},
         "media": {"url": "./assets/images/newtype/200504.jpg", "caption": "Newtype 2005年4月号"}
